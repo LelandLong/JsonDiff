@@ -39,6 +39,8 @@ Comparing two large JSON objects will be much faster using this tool, versus wri
   * "JsonDiff_SampleData" Table with 8 Fields and 2 Records
   * 1 new Layout: "JsonDiff_SampleData"
 
+10. Navigate to the new layout "JsonDiff_SampleData" to explore the functionality using the provided sample data
+
 #### Usage
 
 1. Enter your two JSON objects into the 2 provided fields
